@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am excited to share that I have successfully completed Task 1 in the CodSoft Python Internship! 🎉
 
 <!--
 **Siva-Bhargav-Pasupuleti/Siva-bhargav-Pasupuleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
